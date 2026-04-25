@@ -10,7 +10,7 @@ A personal context file is the core tool of the *Still You* movement. It is a Ma
 
 You then feed that document to whatever AI you use, so the answers it produces match the person who is asking, instead of the median of someone else's review pool.
 
-## Reference template — TELOS (Daniel Miessler)
+## Reference template : TELOS (Daniel Miessler)
 
 The most field-tested template available today is [Daniel Miessler's **TELOS**](https://github.com/danielmiessler/Telos) framework. It is open source, methodical, and explicitly designed to be plugged into AI systems.
 

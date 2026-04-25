@@ -2,7 +2,7 @@
 
 > *Don't let AI think for you.*
 
-**Still You** is a movement for cognitive sovereignty in the age of universal intelligence. It encourages every human to build a personal context file — a documented identity that captures how *you* actually think — and plug it into whatever AI you use.
+**Still You** is a movement for cognitive sovereignty in the age of universal intelligence. It encourages every human to build a personal context file, a documented identity that captures how *you* actually think, and plug it into whatever AI you use.
 
 Platform-agnostic. Open source. Sponsored by [AskMojo](https://askmojo.ai).
 
@@ -41,8 +41,8 @@ There are no tools or tutorials yet. They will be added as the movement matures.
 
 ## Read the manifesto
 
-- 🇬🇧 English (canonical) — [`manifesto/manifesto-en.md`](manifesto/manifesto-en.md)
-- 🇫🇷 Français — [`manifesto/manifesto-fr.md`](manifesto/manifesto-fr.md)
+- 🇬🇧 English (canonical) : [`manifesto/manifesto-en.md`](manifesto/manifesto-en.md)
+- 🇫🇷 Français : [`manifesto/manifesto-fr.md`](manifesto/manifesto-fr.md)
 
 ## Contributing
 
